@@ -30,11 +30,11 @@ header {
   margin-bottom: 1rem;
 }
 .search {
+  color: #fff;
+  font-family: inherit;
   background-color: transparent;
   border: 2px solid #e5e6ed;
   border-radius: 50px;
-  color: #fff;
-  font-family: inherit;
   font-size: 1rem;
   padding: 0.5rem 1rem;
 }
@@ -62,11 +62,11 @@ main {
   background-color: #242425;
   border-radius: 3px;
   box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
   overflow: hidden;
   position: relative;
   margin: 1rem;
   width: 400px;
-  cursor: pointer;
 }
 
 .movie img {
