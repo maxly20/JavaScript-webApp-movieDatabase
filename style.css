@@ -119,8 +119,8 @@ main {
 }
 
 .overview h3 {
-  margin: 1rem;
   color: white;
+  margin: 1rem;
 }
 
 .movie:hover .overview {
